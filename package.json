@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vmajsuk/playground.git",
+  "author": "Vadim Majsuk <vmajsuk@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "r": "ts-node src/index"
+  },
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}
